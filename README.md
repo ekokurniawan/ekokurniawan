@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ekokurniawan
-- 👀 I’m interested in software architecture, programming and technology in general
+- 👀 I’m interested in software architecture, linux, programming and technology in general
 - 🌱 I’m currently learning new trend and anything interesting
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
